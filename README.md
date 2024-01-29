@@ -77,6 +77,6 @@ Challenges:
 Lessons learnt
 1. I need to do alot more practive in data visualization since there are many charts and packages in both R and Python that are key when working on data visualization.
 
- `:slightly_smiling_face:`  `:upside_down_face:` | 
+| :slightly_smiling_face: |  :slightly_smiling_face: | | :slightly_smiling_face: | 
 
 
